@@ -11057,7 +11057,7 @@ __metadata:
     "@typescript-eslint/parser": ^5.59.11
     aws-cdk: ^2.86.0
     aws-cdk-lib: ^2.86.0
-    aws-crt: ^1.15.18
+    aws-crt: ^1.15.20
     commander: ^11.0.0
     constructs: ^10.2.52
     dotenv: ^16.1.4
@@ -12174,9 +12174,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-crt@npm:^1.15.18":
-  version: 1.15.18
-  resolution: "aws-crt@npm:1.15.18"
+"aws-crt@npm:^1.15.20":
+  version: 1.15.20
+  resolution: "aws-crt@npm:1.15.20"
   dependencies:
     "@aws-sdk/util-utf8-browser": ^3.109.0
     "@httptoolkit/websocket-stream": ^6.0.0
@@ -12187,7 +12187,7 @@ __metadata:
     mqtt: ^4.3.7
     process: ^0.11.10
     tar: ^6.1.11
-  checksum: a70d7f5bb4eb406790d54bc3df3537280fce497f09d79d3041bf68955635d3a605991e78b8ea0b40e3244d22338d75d1e9a6aa39edd91a33d313050c0991e17d
+  checksum: bdb2314c9edce5370b8e93834719ae61b0e4e63e1405717ebb21cdf5804b981907f23831cc90061400921884e40a09885f7a19e3e5cc364be5fa1e1f935a7490
   languageName: node
   linkType: hard
 
