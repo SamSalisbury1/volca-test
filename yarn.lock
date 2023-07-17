@@ -10521,12 +10521,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.2.5":
-  version: 18.2.5
-  resolution: "@types/react-dom@npm:18.2.5"
+"@types/react-dom@npm:^18.2.7":
+  version: 18.2.7
+  resolution: "@types/react-dom@npm:18.2.7"
   dependencies:
     "@types/react": "*"
-  checksum: c48209f8c60cb9054f3deee5365bc9fd6dadd8f901b67f1612a334057b2671518fc5145f14aca63ff276a926ccb5358308a6cf58ec700178f382bb3ebde96d91
+  checksum: e02ea908289a7ad26053308248d2b87f6aeafd73d0e2de2a3d435947bcea0422599016ffd1c3e38ff36c42f5e1c87c7417f05b0a157e48649e4a02f21727d54f
   languageName: node
   linkType: hard
 
@@ -11095,7 +11095,7 @@ __metadata:
     "@types/jest": ^29.5.2
     "@types/node": ^20.3.1
     "@types/react": ^18.2.12
-    "@types/react-dom": ^18.2.5
+    "@types/react-dom": ^18.2.7
     "@types/uuid": ^9.0.2
     "@types/zxcvbn": ^4.4.1
     aws-amplify: ^5.2.5
